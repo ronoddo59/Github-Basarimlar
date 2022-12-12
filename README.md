@@ -186,4 +186,5 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 .
 .
 New code added
+    +cd
     sudo su
