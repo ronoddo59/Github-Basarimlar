@@ -185,3 +185,5 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   </details>
 .
 .
+New code added
+    sudo su
